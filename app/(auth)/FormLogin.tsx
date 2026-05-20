@@ -5,7 +5,7 @@ import { useState } from "react";
 import {
   ActivityIndicator,
   KeyboardAvoidingView,
-  Platform,
+  Platform, 
   ScrollView,
   Text,
   TextInput,
